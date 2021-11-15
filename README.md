@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WardahGul.
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning more about java. 
+- I’m interested in web developing.
+- I’m currently learning more about java.
+- I'm studying Software Engineering at Mehran University Of Engineering And Technology Jamshoro.
 
 
 <!---
